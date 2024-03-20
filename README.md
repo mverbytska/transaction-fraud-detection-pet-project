@@ -10,4 +10,7 @@ Nowadays, as technology keeps advancing, people are becoming more tech-savvy, do
 2. Identify the features that make a substantial impact on the model's overall performance
 3. Outline effective strategies for addressing data imbalance tailored to the nature of fraudulent transaction datasets
 
+## Tools and techniques: 
+pandas, matplotlib, seaborn, plotly, scikit-learn, Synthetic Minority Oversampling Technique (SMOTE)
+
 
